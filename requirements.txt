@@ -1,0 +1,2 @@
+LDAPProcessor
+python-ldap>=2.3.10
